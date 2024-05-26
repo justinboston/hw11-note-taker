@@ -43,9 +43,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Screenshots
 
-(./screenshots/screenshot1-hp.png)
+(![screenshots/screenshot1-hp.png](https://github.com/justinboston/hw11-note-taker/blob/main/screenshots/screenshot1-hp.png))
 
-(screenshots/screenshot2-notes.png)
+(![screenshots/screenshot2-notes.png](https://github.com/justinboston/hw11-note-taker/blob/main/screenshots/screenshot2-notes.png))
 
 ## Links
 
