@@ -16,7 +16,6 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Acceptance Criteria
 
-```md
 GIVEN a note-taking application
 WHEN I open the Note Taker
 THEN I am presented with a landing page with a link to a notes page
@@ -30,7 +29,6 @@ WHEN I click on an existing note in the list in the left-hand column
 THEN that note appears in the right-hand column and a "New Note" button appears in the navigation
 WHEN I click on the "New Note" button in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
-```
 
 ## Technologies Used
 
@@ -43,9 +41,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Screenshots
 
-(./screenshots/screenshot1-hp.png)
+(![screenshots/screenshot1-hp.png](https://github.com/justinboston/hw11-note-taker/blob/main/screenshots/screenshot1-hp.png))
 
-(screenshots/screenshot2-notes.png)
+(![screenshots/screenshot2-notes.png](https://github.com/justinboston/hw11-note-taker/blob/main/screenshots/screenshot2-notes.png))
 
 ## Links
 
